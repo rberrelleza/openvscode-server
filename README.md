@@ -18,6 +18,13 @@ At Gitpod we've been asked a lot about how we do it. So we thought we might just
 
 ## Getting started
 
+### Gitpod
+
+Click the button below to start a linux container in Gitpod that will run OpenVSCode Server on Port 3000:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
+
 ### Docker
 
 - Start the server:
@@ -44,6 +51,9 @@ This project really only adds the minimal bits required to run VS Code in a serv
 > **For any feature requests, bug reports, or contributions that are not specific to running VS Code in a server context,**
 >
 > **please go to [Visual Studio Code - Open Source "OSS"](https://github.com/microsoft/vscode)**
+
+## Supporters
+The project is supported by companies such as [GitLab](https://gitlab.com/), [VMware](https://www.vmware.com/), [Uber](https://www.uber.com/), [SAP](https://www.sap.com/), [Sourcegraph](https://sourcegraph.com/), [RStudio](https://www.rstudio.com/), [SUSE Rancher](https://rancher.com/), [Tabnine](https://www.tabnine.com/), [Render](https://render.com/) and [TypeFox](https://www.typefox.io/). 
 
 ## Contributing
 
