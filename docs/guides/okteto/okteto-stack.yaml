@@ -1,0 +1,18 @@
+services:
+  openvscode:
+    image: gitpod/openvscode-server
+    ports:
+    - 3000
+    volumes:
+      - workspace:/home/workspace
+volumes:
+  workspace:
+     driver_opts:
+      size: 2Gi
+endpoints:
+  labels:
+      dev.okteto.com/private: true
+  rules:
+  - path: /
+    service: openvscode
+    port: 3000
