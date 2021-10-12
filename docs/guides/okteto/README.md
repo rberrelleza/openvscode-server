@@ -9,7 +9,7 @@ To complete this guide, you need:
 
 To deploy to Okteto, click the following button:
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?filename=docs/guides/okteto-stack.yaml)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?filename=docs/guides)
 
 
 ## Access OpenVSCode Server
